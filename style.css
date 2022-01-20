@@ -1,0 +1,27 @@
+.btn-get{
+    background-color: red;
+    border-radius: 15px;
+    border: 1px solid black;
+    color: white;
+}
+.btn-get-two{
+    background-color: green;
+    border-radius: 15px;
+    border: 1px solid black;
+    color: white;
+    padding: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+background-color: yellow;
+border: 1px solid black;
+font-size: 7px;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+}
+
